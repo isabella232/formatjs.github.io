@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'formatjs', // Usually your GitHub org/user name.
-  projectName: 'formatjs', // Usually your repo name.
+  projectName: 'formatjs.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Format.JS',
